@@ -1,6 +1,8 @@
 # gcc-7.3.0-boost-1.66
 Bash script and Makefile to install gcc 7.3.0 and boost 1.66 on CentOS and Mac OS X.
 
+> I have consolidated all of the version specific scripts into a single tool https://github.com/jlinoff/make-gcc. Please consider using that instead.
+
 To use it:
 ```bash
 $ mkdir -p work/gcc
